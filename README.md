@@ -35,6 +35,6 @@ Enjoy🎉<br/>
 ## Appendix and FAQ
 
 :::info
-**Find this Project incomplete? Or Having Some Errors** Kindly Leave a comment!<br/>
+**Find this Project incomplete? Or Having Some Errors** Kindly Submit an Issue!<br/>
 made with ❤ amPhilip
 :::
