@@ -29,11 +29,12 @@ npm run server
 
 ## NB:
 Anyone can use to repository as they deem it Fit. I accept anyone to fork this repository and submit their own pull request.<br/>
-Images of the Application shall be below the Appendix and faq section.
-Enjoy🎉
+Project Images Screenshots of the Application shall be below the Appendix and faq section.<br/>
+Enjoy🎉<br/>
 
 ## Appendix and FAQ
 
 :::info
-**Find this Project incomplete? Or Having Some Errors** Kindly Leave a comment!
+**Find this Project incomplete? Or Having Some Errors** Kindly Leave a comment!<br/>
+made with ❤ amPhilip
 :::
