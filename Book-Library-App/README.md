@@ -16,17 +16,15 @@ yarn Start
 ```javascript=16
 npm start
 ```
-4. Add your own ENV Config Files
+4. Add your own ENV Config Files<br/>
+Happy Hacking 🎉<br/>
 
-
-## NB:
-Anyone can use to repository as they deem it Fit. I accept anyone to fork this repository and submit their own pull request.<br/>
-Project Images Screenshots of the Application shall be below the Appendix and faq section.<br/>
-Enjoy🎉<br/>
-
-## Appendix and FAQ
 
 :::info
 **Find this Project incomplete? Or Having Some Errors** Kindly Submit an Issue!<br/>
 made with ❤ amPhilip
-:::
+:::<br/>
+![](AppScreenshots/books.PNG)<br/>
+![](AppScreenshots/addbooks.PNG)<br/>
+![](AppScreenshots/home.PNG)<br/>
+![](AppScreenshots/db.PNG)
